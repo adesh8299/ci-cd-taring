@@ -2,7 +2,7 @@ resources:
 - name: repo
   type: git
   source:
-    uri: 
+    uri: https://github.com/adesh8299/ci-cd-taring
     branch: master
 
 - name: node-hello
